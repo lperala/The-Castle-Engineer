@@ -68,7 +68,7 @@ public class CannonScript1 : MonoBehaviour
         //print("TARGET KOORDINAATTI: " + _Target);
     }
 
-    // Creates an instance of the CannonBall/CannonBallBig gameobject and adds force towards teh target vector.
+    // Creates an instance of the CannonBall/CannonBallBig gameobject and adds force towards the target vector.
     void CreateCannonBallInstance()
     {
         print("shoot");
